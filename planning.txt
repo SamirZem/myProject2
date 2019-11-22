@@ -1,8 +1,8 @@
 Planing de la semaine
-lundi
-mardi
-mercredi
-jeudi
-vendredi
-samedi 
-dimanche
+lundi : cobol
+mardi : java
+mercredi : hibernate
+jeudi : sql
+vendredi : xml
+samedi : pls
+dimanche : pls
